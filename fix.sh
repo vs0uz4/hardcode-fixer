@@ -152,7 +152,7 @@ while read -r name launcher current new_icon; do
                 break
             fi 
             if [ -f "$app_location$launcher" ]; then
-                new_current=$(grep -Gq "Icon=*$" "$app_location$launcher")
+                new_current=$(grep -G "Icon=*" "$app_location$launcher")
             fi
         done
         if [ -f "$new_current" ];then
