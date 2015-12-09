@@ -3,7 +3,10 @@ Application,Launcher,Path,Icon Name
 2048-Qt,2048-qt,/usr/share/pixmaps/2048-qt.xpm,2048-qt
 8BitMMO,8BitMMO,steam,steam_icon_250420
 Aard Dictionary,aarddict,aarddict.png,aarddict
+amSynth,amsynth,/usr/share/pixmaps/amsynth.png,amsynth
+amSynth,amsynth,/usr/share/pixmaps/amsynth.xpm,amsynth
 Android Studio,android-studio,/usr/share/icons/androidstudio.svg,android-studio
+Android Studio,jetbrains-studio,/opt/android-studio/bin/studio.png,android-studio
 Anna - Extended Edition,Anna - Extended Edition,steam,steam_icon_217690
 Aptik,aptik,/usr/share/pixmaps/aptik.png,aptik
 APX,apx,/usr/share/apx/icons/apx.svg,apx
@@ -23,6 +26,7 @@ Beat Hazard,Beat Hazard,steam,steam_icon_49600
 Beat Hazard 2,Beat Hazard 2,steam,steam_icon_49610
 Bibfilex,bibfilex-qt,/opt/bibfilex/icon.png,bibfilex
 Bibfilex,bibfilex-gtk,/opt/bibfilex/icon.png,bibfilex
+BioShock Infinite,BioShock Infinite,steam,steam_icon_8870
 BitDefender,bitdefender,/opt/BitDefender-scanner/share/doc/examples/icons/hicolor/128x128/apps/bitdefender.png,bitdefender
 Blam,blam,blam.png,blam
 BlueJ,bluej,/usr/share/java/bluej/images/bluej-icon-48.png,bluej
@@ -30,6 +34,7 @@ Boot Repair,boot-repair,/usr/share/boot-sav/x-boot-repair.png,x-boot-repair
 Bygfoot Football Manager,bygfoot,bygfoot.xpm,bygfoot
 Calendar Indicator,calendar-indicator,/opt/extras.ubuntu.com/calendar-indicator/share/pixmaps/calendar-indicator.svg,office-calendar
 Cities in Motion 2,Cities in Motion 2,steam,steam_icon_225420
+Cisco Packet Tracer,Cisco-PacketTracer,/opt/pt/art/app.png,packettracer
 ClipGrab,clipgrab,/usr/share/pixmaps/clipgrab.png,clipgrab
 Codelite,codelite,/usr/share/codelite/images/cubes.png,codelite
 Conky Manager,conky-manager,/usr/share/pixmaps/conky-manager.png,conky-manager
@@ -46,9 +51,11 @@ Docear,docear,/usr/share/docear/docear.png,docear
 Dogecoin QT,dogecoin,/usr/share/pixmaps/dogecoin.png,dogecoin
 DOS Box,dosbox,/usr/share/pixmaps/dosbox.png,dosbox
 Dota 2,Dota 2,steam,steam_icon_570
+Double Action: Boogaloo,Double Action Boogaloo,steam,steam_icon_317360
 dreamchess,dreamchess,/usr/share/dreamchess/icon.png,dreamchess
 Dr. Geo,drgeo2,drgeo2.png,drgeo
 Driver Manager,driver-manager,/usr/share/icons/hicolor/scalable/apps/driver-manager.svg,driver-manager
+DupeGuru,dupeguru_se,/usr/share/dupeguru_se/dgse_logo_128.png,dupeguru
 Dwarfs!?,Dwarfs!,steam,steam_icon_35480
 Dwarfs?! - F2P,Dwarfs! - F2P,steam,steam_icon_213650
 easyLife,easylife,/usr/share/pixmaps/easylife.png,easylife
@@ -57,7 +64,9 @@ Electrum,electrum,/usr/share/app-install/icons/electrum.png,electrum
 Emacs 23,emacs23,/usr/share/icons/hicolor/scalable/apps/emacs23.svg,emacs
 Emacs 24,emacs24,/usr/share/icons/hicolor/scalable/apps/emacs24.svg,emacs
 Encrytr,encryptr,/usr/share/pixmaps/Encryptr.png,Encryptr
+Engauge Digitizer,engauge-digitizer,/usr/share/pixmpas/engauge-digitizer.xpm,engauge-digitizer
 Enpass,enpass,enpass.png,enpass
+Enpass,Enpass,/opt/Enpass/enpass.png,enpass
 FadeIn,fadein,/usr/share/fadein/icon_app/fadein_icon_128x128.png,fadein
 FCEUX,fceux,/usr/share/pixmaps/fceux.png,fceux
 Fistful of Frags,Fistful of Frags,steam,steam_icon_265630
@@ -66,6 +75,9 @@ FlightGear Launcher,fgrun,/usr/share/pixmaps/flightgear.ico,flightgear
 FMIT,fmit,/usr/share/icons/hicolor/scalable/apps/fmit.svg,fmit
 Format Junkie,formatjunkie,/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png,fjt
 Fotoxx,fotoxx,/usr/share/fotoxx/icons/fotoxx.png,fotoxx
+FoxitReader,FoxitReader,/home/root/.local/share/icons/hicolor/64x64/apps/FoxitReader.png,foxit-reader
+FoxitReader,FoxitReader,FoxitReader.png,foxit-reader
+FoxitReader,FoxitReader,hardcoded,foxit-reader
 FreeCAD,freecad,/opt/freecad/data/freecad.xpm,freecad
 FreeCAD,freecad,/usr/share/freecad/freecad.xpm,freecad
 Free Chart Geany,freechartgeany,/usr/share/pixmaps/freechartgeany.png,freechartgeany
@@ -127,6 +139,10 @@ HotShots,hotshots,/usr/share/pixmaps/hotshots.png,hotshots
 HP Lip,hplip,/usr/share/hplip/data/images/128x128/hp_logo.png,hp_logo
 HP Printer,hplj1020,/usr/share/pixmaps/hplj1020_icon.png,printer
 HTTraQt,httraqt,httraqt.xpm,httraqt
+IBus Typing Booster Setup,ibus-setup-typing-booster,/usr/share/ibus-typing-booster/icons/ibus-hunspell-table.svg,ibus-keyboard
+IBus LibZhuyin Setup,ibus-setup-libzhuyin,/usr/share/ibus-libzhuyin/icons/ibus-zhuyin.svg,ibus-setup
+IBus LibPinyin Setup,ibus-setup-libpinyin,/usr/share/ibus-libpinyin/icons/ibus-pinyin.svg,ibus-pinyin
+IBus LibBopomofo Preferences,ibus-setup-libbopomofo,/usr/share/ibus-libpinyin/icons/ibus-bopomofo.svg,ibus-bopomofo
 I-Nex,i-nex,/usr/share/pixmaps/i-nex-128.png,i-nex-128
 I-Nex Library,i-nex-library,/usr/share/pixmaps/i-nex-128.png,i-nex-128
 IDLE,idle,/usr/share/pixmaps/idle.xpm,python-idle
@@ -142,6 +158,7 @@ Intellij IDE,intellij-idea,hardcoded,idea
 Intellij IDE,jetbrains-idea,hardcoded,idea
 Intellij IDE,jetbrains-idea-ce,hardcoded,idea
 Jitsi,jitsi,/usr/share/pixmaps/jitsi.svg,jitsi
+Kana Kanji Conversion Preferences,ibus-setup-kkc,/usr/share/ibus-kkc/icons/ibus-kkc.svg,ibus-setup
 Kerbal Space Program,Kerbal Space Program,steam,steam_icon_220200
 Klavaro,klavaro,/usr/share/icons/hicolor/24x24/apps/klavaro.png,klavaro
 Komodo Edit,komodo-edit,/opt/komodo-edit/share/icons/komodo48.png,komodo
@@ -162,8 +179,10 @@ Lucky Backup (KDE),luckybackup-kde-su,/usr/share/pixmaps/luckybackup.png,luckyba
 Lucky Backup (GNOME),luckybackup-gnome-su,/usr/share/pixmaps/luckybackup.png,luckybackup
 LuxRender,luxrender,/usr/share/pixmaps/luxrender.svg,luxrender
 MailNag,mailnag_config,/usr/share/mailnag/mailnag.svg,mailnag
+MakeHuman,makehuman,/usr/share/makehuman/icons/makehuman.svg,makehuman
 Mandelbulber,mandelbulber,/usr/share/mandelbulber/icons/mandelbulber.png,mandelbulber
 Master PDF Editor,MasterPdfEditor,/opt/master-pdf-editor/master-pdf-editor.png,master-pdf-editor
+Master PDF Editor 3,masterpdfeditor3,masterpdfeditor3.png,master-pdf-editor
 Matlab,matlab,/usr/share/icons/hicolor/48x48/apps/matlab.png,matlab
 MediaElch,MediaElch,/usr/share/pixmaps/MediaElch.png,mediaelch
 Mint Audio Tag,audio-tag-tool,/usr/lib/linuxmint/mintInstall/icon.svg,audio-tag-tool
@@ -258,6 +277,8 @@ Robomongo,robomongo,robomongo.png,robomongo
 RubyMine,jetbrains-rubymine,hardcoded,rubymine
 RubyMine,jetbrains-rubymine-ce,hardcoded,rubymine
 Scid,scid,/usr/share/pixmaps/scid.xpm,scid
+Scid,scid,/usr/share/pixmaps/scid.png,scid
+Scid vs. PC,skid_vs_pc,/usr/share/pixmaps/scid.png,scid
 Scilab,scilab,/usr/share/scilab/icons/scilab.xpm,scilab
 Scilab CLI,scilab-cli,/usr/share/scilab-cli/icons/scilab.xpm,scilab
 Scilab adv CLI,scilab-adv-cli,/usr/share/scilab-cli/icons/scilab.xpm,scilab
@@ -275,6 +296,7 @@ Shank 2,Shank 2,steam,steam_icon_6130
 Schematic Editor,schematic,layout.png,schematic
 Sid Meier's Civilization V,Sid Meier's Civilization V,steam,steam_icon_8930
 Sigram,telegram,/opt/sigram/icons/icon.png,sigram
+Skype,skype,skype.png,skype
 Slingscold,slingscold,/usr/share/icons/slingscold.png,slingscold
 SmartHitHG,syntevo-smartgithg-5,/usr/share/smartgithg-5/bin/smartgithg-128.png,smartgithg
 SmartGitHG,smartgithg,/opt/smartgithg/bin/smartgithg-256.png,smartgithg
@@ -293,6 +315,7 @@ SuperTuxKart,supertuxkart,/usr/share/pixmaps/supertuxkart_128.png,supertuxkart
 SVG Cleaner,svgcleaner,/usr/share/icons/hicolor/scalable/apps/svgcleaner.svg,svgcleaner
 Syncthing-GTK,syncthing-gtk,/usr/share/syncthing-gtk/icons/st-logo-128.png,syncthing-gtk
 Synergy,synergy,/usr/share/icons/synergy.ico,synergy
+Teamspeak 3,TeamSpeak3,/opt/TeamSpeak3-Client-linux_amd64/styles/default/logo-128x128.png,teamspeak3
 Team Viewer,Teamviewer-teamviewer9,/opt/teamviewer9/tv_bin/desktop/teamviewer.png,teamviewer
 Team Viewer,teamviewer-teamviewer9,/opt/teamviewer9/tv_bin/desktop/teamviewer.png,teamviewer
 Team Viewer,teamviewer-teamviewer10,/opt/teamviewer/tv_bin/desktop/teamviewer.png,teamviewer
@@ -306,6 +329,7 @@ Tomate,tomate,/usr/share/tomate/media/tomate.png,tomate
 Tor Browser,tor-browser-en,/usr/share/pixmaps/tor-browser-en.png,tor-browser-en
 Touchpad Indicator,touchpad-indicator,/usr/share/pixmaps/touchpad-indicator,touchpad-indicator
 Trelby,trelby,/opt/trelby/resources/icon256.png,trelby
+Trine,Trine,steam,steam_icon_35700
 TV-MAXE,tvmaxe,/usr/share/tv-maxe/tvmaxe.png,tvmaxe
 UberWriter,uberwriter,/usr/share/uberwriter/media/uberwriter.svg,uberwriter
 UberWriter,uberwriter,/opt/extras.ubuntu.com/uberwriter/share/uberwriter/media/uberwriter.svg,uberwriter
